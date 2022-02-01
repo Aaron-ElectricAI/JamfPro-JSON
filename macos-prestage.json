@@ -12,9 +12,9 @@
   "keepExistingLocationInformation": false,
   "requireAuthentication": false,
   "authenticationPrompt": "",
-  "profileUuid": "74059175ADD211C93560203E8A083A41",
+  "profileUuid": "A762AA558C5BEAD4E7E2DCA3B2A13B3F",
   "deviceEnrollmentProgramInstanceId": "1",
-  "versionLock": 2,
+  "versionLock": 137,
   "siteId": "-1",
   "skipSetupItems": {
     "Biometric": true,
@@ -44,11 +44,11 @@
     "position": "",
     "departmentId": "-1",
     "buildingId": "-1",
-    "id": "2",
+    "id": "1",
     "versionLock": 0
   },
   "purchasingInformation": {
-    "id": "2",
+    "id": "1",
     "leased": false,
     "purchased": true,
     "appleCareId": "",
@@ -73,8 +73,5 @@
   "customPackageIds": [],
   "customPackageDistributionPointId": "-1",
   "installProfilesDuringSetup": false,
-  "prestageInstalledProfileIds": [],
-  "enableRecoveryLock": false,
-  "recoveryLockPasswordType": "MANUAL",
-  "rotateRecoveryLockPassword": false
+  "prestageInstalledProfileIds": []
 }
