@@ -9,9 +9,6 @@
 #
 #
 #############################################################
-apiUser="aaron.hodgson@electric.ai"
-apiPass=$(echo "UGVlUGVlUGFudHMyMDE5IQo=" | base64 --decode)
-github_token="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"
 #############################################################
 macOS_URL="https://raw.githubusercontent.com/Aaron-ElectricAI/JamfPro-JSON/main/macos-prestage.json"
 iOS_URL="https://raw.githubusercontent.com/Aaron-ElectricAI/JamfPro-JSON/main/ios-prestage.json"
