@@ -26,7 +26,7 @@
     "ScreenTime": true,
     "Siri": true,
     "DisplayTone": false,
-    "Restore": true,
+    "Restore": false,
     "Appearance": false,
     "Privacy": true,
     "Payment": true,
